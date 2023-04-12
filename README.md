@@ -1,1 +1,1 @@
-# neauralproject
+# neuralproject
